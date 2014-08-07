@@ -1,10 +1,11 @@
+
 <!DOCTYPE html>
 <!--[if IE 8]>			<html class="ie ie8"> <![endif]-->
 <!--[if IE 9]>			<html class="ie ie9"> <![endif]-->
 <!--[if gt IE 9]><!-->	<html> <!--<![endif]-->
     <head>
         <meta charset="utf-8" />
-        <title>Manoel Borja</title>
+        <title>Contacto - Manoel Borja</title>
         <meta name="keywords" content="" />
         <meta name="description" content="" />
         <meta name="Author" content="Dorin Grigoras [www.stepofweb.com]" />
@@ -30,12 +31,6 @@
 
         <!-- Morenizr -->
         <script type="text/javascript" src="assets/plugins/modernizr.min.js"></script>
-        <script type="text/javascript">
-            if (top != self) {
-                window.open(self.location.href, '_top');
-            }
-        </script>
-
     </head>
     <body>
         <!-- HEADER -->
@@ -43,7 +38,7 @@
             <div class="container">
 
                 <!-- LOGO -->
-                <a href="index.html" class="logo"><img alt="" src="assets/images/logo.png" height="60" /></a>
+                <a href="index.php" class="logo"><img alt="" src="assets/images/logo.png" height="60" /></a>
                 <!-- LOGO -->
 
                 <!-- OPTIONS -->
@@ -59,16 +54,15 @@
 
                 <!-- TOP MENU -->
                 <div class="navbar-collapse nav-main-collapse collapse pull-left">
-                    <nav class="nav-main">
+                    <nav class="nav-main mega-menu">
                         <ul class="nav nav-pills nav-main scroll-menu" id="topMain">
 
-                            <li class="active">
+                            <li>
                                 <a class="dropdown-toggle" href="index.php">INICIO</a>
                             </li>
                             <li>
                                 <a class="dropdown-toggle" href="contact-1.php">CONTACTO</a>
-                            </li>
-
+                            </li>                             
 <!--                            <li class="dropdown">
                                 <a class="dropdown-toggle" href="#">PAGES <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown-menu">
@@ -150,10 +144,10 @@
                                 </ul>
                             </li>-->
 
-<!--                            <li class="dropdown">
+<!--                            <li class="dropdown active">
                                 <a class="dropdown-toggle" href="#">CONTACT <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown-menu pull-right">
-                                    <li><a href="contact-1.html">Contact #1</a></li>
+                                    <li class="active"><a href="contact-1.html">Contact #1</a></li>
                                     <li><a href="contact-2.html">Contact #2</a></li>
                                     <li><a href="contact-3.html">Contact #3</a></li>
                                     <li><a href="contact-4.html">Contact #4</a></li>
@@ -173,103 +167,48 @@
 
 
 
-        <!-- SLIDER -->
-        <img id="cycle-loader" src="assets/images/spinner.gif" alt="loader" />
+        <div id="middle" class="container">
+            <div class="white">
 
-        <!-- controlls -->
-        <div class="maximage-controls">
-            <a href="#" id="slider_prev"></a>
-            <a href="#" id="slider_next"></a>
+                <header class="page-header">
+                    <h1><strong>Contacto</strong> Directo</h1>
+                </header>
+
+                <div id="gmap"><!-- google map --></div>
+                <script type="text/javascript">
+                    var $googlemap_latitude = 20.980435,
+                            $googlemap_longitude = -89.619848,
+                            $googlemap_zoom = 13;
+                </script>
+
+                <hr class="half-margins invisible" />
+
+                <div class="row">
+                    <!-- INFO -->
+                    <div class="col-md-4">
+
+                        <h3><strong>Visitanos</strong></h3>
+
+                        <p>
+                            Academia de belleza “Estilos” te invita para que vengas a incrementar tus conocimientos
+                            y desarrollar tus aptitudes, con la única finalidad de labrarte un futuro productivo.
+                        </p>
+
+                        <div class="divider half-margins"><!-- divider 30px --></div>
+
+                        <p>
+                            <span class="block"><strong><i class="fa fa-map-marker"></i> Direccion:</strong> Calle 39 #498-A entre 58 y 60 Centro</span>
+                            <span class="block"><strong><i class="fa fa-phone"></i> Telefono(s):</strong> 925-58-17 / 920-02-02</span>
+                            <span class="block"><strong><i class="fa fa-envelope"></i> Email:</strong> <a href="mailto:manoel.borja@outlook.com">manoel.borja@outlook.com</a></span>
+                        </p>
+                    </div>
+                    <!-- /INFO -->
+
+                </div>
+
+
+            </div>
         </div>
-        <!-- /controlls -->
-
-        <ul id="slider">
-            <li>
-                <img src="assets/images/demo/slider/17.jpg" alt="" />
-                <div class="caption">
-
-                    <div class="block">
-                        <h1>Supérate y Triunfa</h1>
-                    </div>
-
-                    <div class="block">
-                        <h2>Centro Profesional de Capacitacion en la Belleza</h2>
-                    </div>
-
-                    <div class="block">
-                        <p>Estudia la carrera más noble, productiva y lucrativa.</p>
-                    </div>
-                </div>
-            </li>
-            <li>
-                <img src="assets/images/demo/slider/19.jpg" alt="" />
-                <div class="caption">
-
-                    <div class="block">
-                        <h1>FASHION WEBSITE</h1>
-                    </div>
-
-                    <div class="block">
-                        <h2>BEAUTY &amp; SHOPPING</h2>
-                    </div>
-
-                    <div class="block">
-                        <p>ALKA<strong>LINE</strong> is a multipurpose template, retina ready, super flexible and fully<br /> responsive based on Bootstrap 3.</p>
-                    </div>
-
-                    <div class="block">
-                        <a class="btn btn-warning" href="https://wrapbootstrap.com/theme/alkaline-multipurpose-template-WB0840507" target="_blank">PURCHASE NOW</a>
-                    </div>
-
-                </div>
-            </li>
-            <li>
-                <img src="assets/images/demo/slider/1.jpg" alt="" />
-                <div class="caption">
-
-                    <div class="block">
-                        <h1>FURNITURE</h1>
-                    </div>
-
-                    <div class="block">
-                        <h2>HIGH QUALITY FURNITURE STORE</h2>
-                    </div>
-
-                    <div class="block">
-                        <p>ALKA<strong>LINE</strong> is a multipurpose template, retina ready, super flexible and fully<br /> responsive based on Bootstrap 3.</p>
-                    </div>
-
-                    <div class="block">
-                        <a class="btn btn-danger" href="https://wrapbootstrap.com/theme/alkaline-multipurpose-template-WB0840507" target="_blank">PURCHASE NOW</a>
-                    </div>
-
-                </div>
-            </li>
-            <li>
-                <img src="assets/images/demo/slider/9.jpg" alt="" />
-                <div class="caption">
-
-                    <div class="block">
-                        <h1>BOOKS</h1>
-                    </div>
-
-                    <div class="block">
-                        <h2>ALL BOOKS YOU NEED</h2>
-                    </div>
-
-                    <div class="block">
-                        <p>ALKA<strong>LINE</strong> is a multipurpose template, retina ready, super flexible and fully<br /> responsive based on Bootstrap 3.</p>
-                    </div>
-
-                    <div class="block">
-                        <a class="btn btn-primary" href="https://wrapbootstrap.com/theme/alkaline-multipurpose-template-WB0840507" target="_blank">PURCHASE NOW</a>
-                    </div>
-
-                </div>
-            </li>
-        </ul>
-
-        <!-- /SLIDER -->
 
 
 
@@ -300,7 +239,7 @@
 
                     <div class="modal-header"><!-- modal header -->
                         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                        <h4 class="modal-title" id="myModalLabel"><i class="fa fa-hand-o-down"></i> REDES SOCIALES</h4>
+                        <h4 class="modal-title" id="myModalLabel"><i class="fa fa-hand-o-down"></i> Redes Sociales</h4>
                     </div><!-- /modal header -->
 
                     <!-- modal body -->
