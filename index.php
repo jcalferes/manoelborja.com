@@ -72,9 +72,9 @@
                                 <a class="dropdown-toggle" href="#">CURSOS <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown-menu">
                                     <li><a href="manicurista.php">Manicurista</a></li>
-                                    <li><a href="">Pedicurista</a></li>
+                                    <li><a href="pedicurista.php">Pedicurista</a></li>
                                     <li><a href="">Permanentista</a></li>
-                                    <li><a href="">Tinturista</a></li>
+                                    <li><a href="tinturista.php">Tinturista</a></li>
                                     <li><a href="">Peinadora</a></li>
                                     <li><a href="">Maquillista</a></li>
                                     <li><a href="">Diseño de imagen</a></li>

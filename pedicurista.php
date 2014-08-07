@@ -65,8 +65,8 @@
                             <li class="dropdown">
                                 <a class="dropdown-toggle" href="#">CURSOS <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown-menu">
-                                    <li class="active"><a href="manicurista.php">Manicurista</a></li>
-                                    <li><a href="pedicurista.php">Pedicurista</a></li>
+                                    <li><a href="manicurista.php">Manicurista</a></li>
+                                    <li class="active"><a href="pedicurista.php">Pedicurista</a></li>
                                     <li><a href="">Permanentista</a></li>
                                     <li><a href="tinturista.php">Tinturista</a></li>
                                     <li><a href="">Peinadora</a></li>
@@ -94,7 +94,7 @@
             <div class="white">
 
                 <header class="page-header">
-                    <h1><strong>Manicurista</strong></h1>
+                    <h1><strong>Pedicurista</strong></h1>
                 </header>
 
 
@@ -105,21 +105,19 @@
                         <div class="col-sm-6 col-md-7">
                             <div class="owl-carousel controlls-over product-image" data-plugin-options='{"items": 1, "singleItem": true, "navigation": true, "pagination": true, "transitionStyle":"fadeUp"}'>
                                 <div>
-                                    <img alt="" class="img-responsive" src="assets/images/demo/portfolio/8.jpg">
+                                    <img alt="" class="img-responsive" src="assets/images/demo/portfolio/1.jpg">
                                 </div>
                                 <div>
-                                    <img alt="" class="img-responsive" src="assets/images/demo/portfolio/9.jpg">
+                                    <img alt="" class="img-responsive" src="assets/images/demo/portfolio/2.jpg">
                                 </div>
                             </div>
                         </div>
 
                         <div class="col-sm-6 col-md-5">
-                            <p>El arte de embellecer las manos, uñas de gel, acrílico, seda, porcelana, fibra de vidrio.</p>
+                            <p>El cuidado de los pies, las uñas enterradas, spa, masaje y suavización de los talones.</p>
                             <ul class="list-icon star-o">
-                                <li>Diseña tu estilo.</li>
-                                <li>Crea tu imagen.</li>
-                                <li>Inventa nuevos diseños.</li>
-                                <li>Explota tus habilidades.</li>
+                                <li>Cuidado y salud de los pies.</li>
+                                <li>Contribuye en la belleza casi olvidada de los pies.</li>
                             </ul>
                         </div>
                     </div>
@@ -128,7 +126,7 @@
                     <hr />
 
                     <!-- RELATED -->
-                    <h2><strong>Mas</strong> Cursos</h2>
+                    <h2><strong>Related</strong> Projects</h2>
                     <div class="row">
 
                         <div class="col-md-3"><!-- item -->

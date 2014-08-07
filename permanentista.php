@@ -66,9 +66,9 @@
                                 <a class="dropdown-toggle" href="#">CURSOS <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown-menu">
                                     <li class="active"><a href="manicurista.php">Manicurista</a></li>
-                                    <li><a href="pedicurista.php">Pedicurista</a></li>
+                                    <li><a href="">Pedicurista</a></li>
                                     <li><a href="">Permanentista</a></li>
-                                    <li><a href="tinturista.php">Tinturista</a></li>
+                                    <li><a href="">Tinturista</a></li>
                                     <li><a href="">Peinadora</a></li>
                                     <li><a href="">Maquillista</a></li>
                                     <li><a href="">Diseño de imagen</a></li>
@@ -116,10 +116,10 @@
                         <div class="col-sm-6 col-md-5">
                             <p>El arte de embellecer las manos, uñas de gel, acrílico, seda, porcelana, fibra de vidrio.</p>
                             <ul class="list-icon star-o">
-                                <li>Diseña tu estilo.</li>
-                                <li>Crea tu imagen.</li>
-                                <li>Inventa nuevos diseños.</li>
-                                <li>Explota tus habilidades.</li>
+                                <li>...</li>
+                                <li>...</li>
+                                <li>...</li>
+                                <li>...</li>
                             </ul>
                         </div>
                     </div>
@@ -128,7 +128,7 @@
                     <hr />
 
                     <!-- RELATED -->
-                    <h2><strong>Mas</strong> Cursos</h2>
+                    <h2><strong>Related</strong> Projects</h2>
                     <div class="row">
 
                         <div class="col-md-3"><!-- item -->

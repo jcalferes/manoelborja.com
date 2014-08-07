@@ -65,10 +65,10 @@
                             <li class="dropdown">
                                 <a class="dropdown-toggle" href="#">CURSOS <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown-menu">
-                                    <li class="active"><a href="manicurista.php">Manicurista</a></li>
+                                    <li><a href="manicurista.php">Manicurista</a></li>
                                     <li><a href="pedicurista.php">Pedicurista</a></li>
                                     <li><a href="">Permanentista</a></li>
-                                    <li><a href="tinturista.php">Tinturista</a></li>
+                                    <li class="active"><a href="tinturista.php">Tinturista</a></li>
                                     <li><a href="">Peinadora</a></li>
                                     <li><a href="">Maquillista</a></li>
                                     <li><a href="">Diseño de imagen</a></li>
@@ -94,7 +94,7 @@
             <div class="white">
 
                 <header class="page-header">
-                    <h1><strong>Manicurista</strong></h1>
+                    <h1><strong>Tinturista</strong></h1>
                 </header>
 
 
@@ -105,21 +105,20 @@
                         <div class="col-sm-6 col-md-7">
                             <div class="owl-carousel controlls-over product-image" data-plugin-options='{"items": 1, "singleItem": true, "navigation": true, "pagination": true, "transitionStyle":"fadeUp"}'>
                                 <div>
-                                    <img alt="" class="img-responsive" src="assets/images/demo/portfolio/8.jpg">
+                                    <img alt="" class="img-responsive" src="assets/images/demo/portfolio/3.jpg">
                                 </div>
                                 <div>
-                                    <img alt="" class="img-responsive" src="assets/images/demo/portfolio/9.jpg">
+                                    <img alt="" class="img-responsive" src="assets/images/demo/portfolio/4.jpg">
                                 </div>
                             </div>
                         </div>
 
                         <div class="col-sm-6 col-md-5">
-                            <p>El arte de embellecer las manos, uñas de gel, acrílico, seda, porcelana, fibra de vidrio.</p>
+                            <p>Forma y uso correcto del color, combinacion de tonos, mehcas, luces, decoloracion, suavización de cana y extracción de color.</p>
                             <ul class="list-icon star-o">
-                                <li>Diseña tu estilo.</li>
-                                <li>Crea tu imagen.</li>
-                                <li>Inventa nuevos diseños.</li>
-                                <li>Explota tus habilidades.</li>
+                                <li>Explota la correcta combinación de los colores.</li>
+                                <li>Adquiere habilidad y experiencia relizando practicas reales.</li>
+                                <li>Diseña, crea e inventa la nueva línea en la combinación de tintes.</li>
                             </ul>
                         </div>
                     </div>
@@ -128,7 +127,7 @@
                     <hr />
 
                     <!-- RELATED -->
-                    <h2><strong>Mas</strong> Cursos</h2>
+                    <h2><strong>Related</strong> Projects</h2>
                     <div class="row">
 
                         <div class="col-md-3"><!-- item -->
