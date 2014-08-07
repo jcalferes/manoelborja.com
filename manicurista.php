@@ -5,7 +5,7 @@
 <!--[if gt IE 9]><!-->	<html> <!--<![endif]-->
     <head>
         <meta charset="utf-8" />
-        <title>Contacto - Manoel Borja</title>
+        <title>Manicurista - Manoel Borja</title>
         <meta name="keywords" content="" />
         <meta name="description" content="" />
         <meta name="Author" content="" />
@@ -54,16 +54,18 @@
 
                 <!-- TOP MENU -->
                 <div class="navbar-collapse nav-main-collapse collapse pull-left">
-                    <nav class="nav-main mega-menu">
+                    <nav class="nav-main">
                         <ul class="nav nav-pills nav-main scroll-menu" id="topMain">
 
                             <li>
                                 <a class="dropdown-toggle" href="index.php">INICIO</a>
                             </li>
+
+
                             <li class="dropdown">
                                 <a class="dropdown-toggle" href="#">CURSOS <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="manicurista.php">Manicurista</a></li>
+                                    <li class="active"><a href="manicurista.php">Manicurista</a></li>
                                     <li><a href="">Pedicurista</a></li>
                                     <li><a href="">Permanentista</a></li>
                                     <li><a href="">Tinturista</a></li>
@@ -73,14 +75,13 @@
                                     <li><a href="">Especialidades</a></li>
                                 </ul>
                             </li>
-                            <li class="active">
+                            <li>
                                 <a class="dropdown-toggle" href="contact-1.php">CONTACTO</a>
-                            </li>                             
+                            </li>
                         </ul>
                     </nav>
                 </div>
                 <!-- /TOP MENU -->
-
             </div>
         </header>
         <!-- /HEADER -->
@@ -93,37 +94,122 @@
             <div class="white">
 
                 <header class="page-header">
-                    <h1><strong>Contacto</strong> Directo</h1>
+                    <h1><strong>Manicurista</strong></h1>
                 </header>
 
-                <div id="gmap"><!-- google map --></div>
-                <script type="text/javascript">
-                    var $googlemap_latitude = 20.980435,
-                            $googlemap_longitude = -89.619848,
-                            $googlemap_zoom = 13;
-                </script>
 
-                <hr class="half-margins invisible" />
+                <!-- PORTFOLIO -->
+                <section id="portfolio">
 
-                <div class="row">
-                    <!-- INFO -->
-                    <div class="col-md-4">
-                        <h3><strong>Visitanos</strong></h3>
-                        <p>
-                            <span class="block"><strong><i class="fa fa-map-marker"></i> Direccion:</strong> Calle 39 #498-A entre 58 y 60 Centro</span>
-                            <span class="block"><strong><i class="fa fa-phone"></i> Telefono(s):</strong> 925-58-17 / 920-02-02</span>
-                            <span class="block"><strong><i class="fa fa-envelope"></i> Email:</strong> <a href="mailto:manoel.borja@outlook.com">manoel.borja@outlook.com</a></span>
-                        </p>
+                    <div class="row">
+                        <div class="col-sm-6 col-md-7">
+                            <div class="owl-carousel controlls-over product-image" data-plugin-options='{"items": 1, "singleItem": true, "navigation": true, "pagination": true, "transitionStyle":"fadeUp"}'>
+                                <div>
+                                    <img alt="" class="img-responsive" src="assets/images/demo/portfolio/8.jpg">
+                                </div>
+                                <div>
+                                    <img alt="" class="img-responsive" src="assets/images/demo/portfolio/9.jpg">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-5">
+                            <p>El arte de embellecer las manos, uñas de gel, acrílico, seda, porcelana, fibra de vidrio.</p>
+                            <ul class="list-icon star-o">
+                                <li>...</li>
+                                <li>...</li>
+                                <li>...</li>
+                                <li>...</li>
+                            </ul>
+                        </div>
                     </div>
-                    <!-- /INFO -->
-
-                </div>
 
 
+                    <hr />
+
+<!--                     RELATED 
+                    <h2><strong>Related</strong> Projects</h2>
+                    <div class="row">
+
+                        <div class="col-md-3"> item 
+                            <div class="item-box">
+                                <figure>
+                                    <a class="item-hover" href="portfolio-single-slider.html">
+                                        <span class="overlay"></span>
+                                        <span class="inner">
+                                            <strong>PROJECT</strong> DETAIL
+                                        </span>
+                                    </a>
+                                    <img class="img-responsive" src="assets/images/demo/portfolio/thumb/1.jpg" width="260" height="260" alt="">
+                                </figure>
+                                <div class="item-box-desc">
+                                    <h4>Alkaline Project</h4>
+                                    <small class="styleColor">29 June, 2014</small>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3"> item 
+                            <div class="item-box">
+                                <figure>
+                                    <a class="item-hover lightbox" href="http://www.youtube.com/watch?v=W7Las-MJnJo" data-plugin-options='{"type":"iframe"}'>
+                                        <span class="overlay"></span>
+                                        <span class="inner">
+                                            <strong>VIEW</strong> VIDEO
+                                        </span>
+                                    </a>
+                                    <img class="img-responsive" src="assets/images/demo/portfolio/thumb/2.jpg" width="260" height="260" alt="">
+                                </figure>
+                                <div class="item-box-desc">
+                                    <h4>Video Project</h4>
+                                    <small class="styleColor">29 June, 2014</small>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3"> item 
+                            <div class="item-box">
+                                <figure>
+                                    <a class="item-hover" href="portfolio-single-slider.html">
+                                        <span class="overlay"></span>
+                                        <span class="inner">
+                                            <strong>PROJECT</strong> DETAIL
+                                        </span>
+                                    </a>
+                                    <img class="img-responsive" src="assets/images/demo/portfolio/thumb/3.jpg" width="260" height="260" alt="">
+                                </figure>
+                                <div class="item-box-desc">
+                                    <h4>Alkaline Project</h4>
+                                    <small class="styleColor">29 June, 2014</small>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3"> item 
+                            <div class="item-box">
+                                <figure>
+                                    <a class="item-hover" href="portfolio-single-slider.html">
+                                        <span class="overlay"></span>
+                                        <span class="inner">
+                                            <strong>PROJECT</strong> DETAIL
+                                        </span>
+                                    </a>
+                                    <img class="img-responsive" src="assets/images/demo/portfolio/thumb/4.jpg" width="260" height="260" alt="">
+                                </figure>
+                                <div class="item-box-desc">
+                                    <h4>Alkaline Project</h4>
+                                    <small class="styleColor">29 June, 2014</small>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                     /RELATED -->
+                </section>
+                <!-- /PORTFOLIO -->
             </div>
         </div>
-
-
 
 
         <!-- FOOTER -->
@@ -196,6 +282,7 @@
         <script type="text/javascript" src="assets/plugins/maximage/js/jquery.maximage.min.js"></script>
 
         <script type="text/javascript" src="assets/js/scripts.js"></script>
+        <script type="text/javascript" src="assets/plugins/styleswitcher/styleswitcher.js"></script><!-- STYLESWITCHER - REMOVE ON PRODUCTION/DEVELOPMENT -->
 
     </body>
 </html>

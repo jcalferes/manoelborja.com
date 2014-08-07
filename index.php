@@ -7,7 +7,8 @@
         <title>Manoel Borja</title>
         <meta name="keywords" content="" />
         <meta name="description" content="" />
-        <meta name="Author" content="Dorin Grigoras [www.stepofweb.com]" />
+        <meta name="Author" content="" />
+        <link rel="icon" href="assets/images/favicon.png">
 
         <!-- mobile settings -->
         <meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=0" />
@@ -43,7 +44,7 @@
             <div class="container">
 
                 <!-- LOGO -->
-                <a href="index.html" class="logo"><img alt="" src="assets/images/logo.png" height="60" /></a>
+                <a href="index.php" class="logo"><img alt="" src="assets/images/logo.png" height="60" /></a>
                 <!-- LOGO -->
 
                 <!-- OPTIONS -->
@@ -65,101 +66,24 @@
                             <li class="active">
                                 <a class="dropdown-toggle" href="index.php">INICIO</a>
                             </li>
+
+
+                            <li class="dropdown">
+                                <a class="dropdown-toggle" href="#">CURSOS <i class="fa fa-angle-down"></i></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="manicurista.php">Manicurista</a></li>
+                                    <li><a href="">Pedicurista</a></li>
+                                    <li><a href="">Permanentista</a></li>
+                                    <li><a href="">Tinturista</a></li>
+                                    <li><a href="">Peinadora</a></li>
+                                    <li><a href="">Maquillista</a></li>
+                                    <li><a href="">Diseño de imagen</a></li>
+                                    <li><a href="">Especialidades</a></li>
+                                </ul>
+                            </li>
                             <li>
                                 <a class="dropdown-toggle" href="contact-1.php">CONTACTO</a>
                             </li>
-
-<!--                            <li class="dropdown">
-                                <a class="dropdown-toggle" href="#">PAGES <i class="fa fa-angle-down"></i></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="page-about-us.html">About Us</a></li>
-                                    <li><a href="page-team.html">Team</a></li>
-                                    <li><a href="page-services.html">Services</a></li>
-                                    <li><a href="page-faq.html">FAQ</a></li>
-                                    <li><a href="page-pricing.html">Pricing</a></li>
-                                    <li><a href="page-login.html">Login</a></li>
-                                    <li><a href="page-register.html">Register</a></li>
-                                    <li><a href="page-404.html">404 Error</a></li>
-                                    <li><a href="page-left-sidebar.html">Left Sidebar</a></li>
-                                    <li><a href="page-right-sidebar.html">Right Sidebar</a></li>
-                                    <li><a href="page-full-width.html">Full Width</a></li>
-                                    <li><a href="page-empty.html">Empty Page</a></li>
-                                    <li><a href="page-terms-and-conditions.html">Terms &amp; Conditions</a></li>
-                                </ul>
-                            </li>-->
-
-<!--                            <li class="dropdown">
-                                <a class="dropdown-toggle" href="#">FEATURES <i class="fa fa-angle-down"></i></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="shortcodes-toggles.html">Shortcodes</a></li>
-                                    <li><a href="feature-typography.html">Typography</a></li>
-                                    <li><a href="feature-grid.html">Grid</a></li>
-                                    <li><a href="feature-icons.html">Icons</a></li>
-                                    <li><a href="feature-header-1.html">Header 1</a></li>
-                                    <li><a href="feature-header-2.html">Header 2</a></li>
-                                    <li><a href="feature-header-3.html">Header 3</a></li>
-                                    <li><a href="feature-header-4.html">Header 4</a></li>
-                                    <li><a href="feature-top-image.html">Top Image</a></li>
-                                    <li><a href="feature-top-carousel.html">Top Carousel</a></li>
-                                    <li class="dropdown">
-                                        <a href="#">Menu Level #2 <i class="fa fa-angle-right"></i></a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="#">Menu Level #3</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>-->
-
-<!--                            <li class="dropdown">
-                                <a class="dropdown-toggle" href="#">PORTFOLIO <i class="fa fa-angle-down"></i></a>
-                                <ul class="dropdown-menu pull-right">
-                                    <li><a href="portfolio-2-columns.html">2 Columns</a></li>
-                                    <li><a href="portfolio-3-columns.html">3 Columns</a></li>
-                                    <li><a href="portfolio-4-columns.html">4 Columns</a></li>
-                                    <li><a href="portfolio-fullcenter.html">Fullcenter</a></li>
-                                    <li><a href="portfolio-single-basic.html">Single Basic</a></li>
-                                    <li><a href="portfolio-single-slider.html">Single Slider</a></li>
-                                </ul>
-                            </li>-->
-
-<!--                            <li class="dropdown">
-                                <a class="dropdown-toggle" href="#">SHOP <i class="fa fa-angle-down"></i></a>
-                                <ul class="dropdown-menu pull-right">
-                                    <li><a href="shop-with-sidebar.html">With Sidebar</a></li>
-                                    <li><a href="shop-without-sidebar.html">Without Sidebar</a></li>
-                                    <li><a href="shop-single.html">Single Product</a></li>
-                                    <li><a href="shop-single-sidebar.html">Single Product + Sidebar</a></li>
-                                    <li><a href="shop-cart.html">Shop Cart</a></li>
-                                    <li><a href="shop-checkout.html">Shop Checkout</a></li>
-                                    <li><a href="shop-payment.html">Shop Payment</a></li>
-                                    <li><a href="page-login.html">Login</a></li>
-                                    <li><a href="page-register.html">Register</a></li>
-                                    <li><a href="shop-history.html">Order History</a></li>
-                                    <li><a href="shop-history-summary.html">Order History Summary</a></li>
-                                    <li><a href="shop-invoice.html">Invoice</a></li>
-                                </ul>
-                            </li>-->
-
-<!--                            <li class="dropdown">
-                                <a class="dropdown-toggle" href="#">BLOG <i class="fa fa-angle-down"></i></a>
-                                <ul class="dropdown-menu pull-right">
-                                    <li><a href="blog-with-sidebar.html">Blog With Sidebar</a></li>
-                                    <li><a href="blog-without-sidebar.html">Blog Without Sidebar</a></li>
-                                    <li><a href="blog-single-with-sidebar.html">Blog Single With Sidebar</a></li>
-                                    <li><a href="blog-single-without-sidebar.html">Blog Single Without Sidebar</a></li>
-                                </ul>
-                            </li>-->
-
-<!--                            <li class="dropdown">
-                                <a class="dropdown-toggle" href="#">CONTACT <i class="fa fa-angle-down"></i></a>
-                                <ul class="dropdown-menu pull-right">
-                                    <li><a href="contact-1.html">Contact #1</a></li>
-                                    <li><a href="contact-2.html">Contact #2</a></li>
-                                    <li><a href="contact-3.html">Contact #3</a></li>
-                                    <li><a href="contact-4.html">Contact #4</a></li>
-                                </ul>
-                            </li>-->
-
                         </ul>
                     </nav>
                 </div>
@@ -189,15 +113,11 @@
                 <div class="caption">
 
                     <div class="block">
-                        <h1>Supérate y Triunfa</h1>
+                        <h1>SUPERATE Y TRIUNFA</h1>
                     </div>
 
                     <div class="block">
-                        <h2>Centro Profesional de Capacitacion en la Belleza</h2>
-                    </div>
-
-                    <div class="block">
-                        <p>Estudia la carrera más noble, productiva y lucrativa.</p>
+                        <h2>Centro Profesional de Capacitación en la Belleza</h2>
                     </div>
                 </div>
             </li>
@@ -206,43 +126,25 @@
                 <div class="caption">
 
                     <div class="block">
-                        <h1>FASHION WEBSITE</h1>
+                        <h1>INCREMENTA TU CONOCIMIENTO</h1>
                     </div>
 
                     <div class="block">
-                        <h2>BEAUTY &amp; SHOPPING</h2>
+                        <h2>Centro Profesional de Capacitación en la Belleza</h2>
                     </div>
-
-                    <div class="block">
-                        <p>ALKA<strong>LINE</strong> is a multipurpose template, retina ready, super flexible and fully<br /> responsive based on Bootstrap 3.</p>
-                    </div>
-
-                    <div class="block">
-                        <a class="btn btn-warning" href="https://wrapbootstrap.com/theme/alkaline-multipurpose-template-WB0840507" target="_blank">PURCHASE NOW</a>
-                    </div>
-
                 </div>
             </li>
             <li>
-                <img src="assets/images/demo/slider/1.jpg" alt="" />
+                <img src="assets/images/demo/slider/22.jpg" alt="" />
                 <div class="caption">
 
                     <div class="block">
-                        <h1>FURNITURE</h1>
+                        <h1>DESARROLLA TUS APTITUDES</h1>
                     </div>
 
                     <div class="block">
-                        <h2>HIGH QUALITY FURNITURE STORE</h2>
+                        <h2>Centro Profesional de Capacitación en la Belleza</h2>
                     </div>
-
-                    <div class="block">
-                        <p>ALKA<strong>LINE</strong> is a multipurpose template, retina ready, super flexible and fully<br /> responsive based on Bootstrap 3.</p>
-                    </div>
-
-                    <div class="block">
-                        <a class="btn btn-danger" href="https://wrapbootstrap.com/theme/alkaline-multipurpose-template-WB0840507" target="_blank">PURCHASE NOW</a>
-                    </div>
-
                 </div>
             </li>
             <li>
@@ -250,21 +152,12 @@
                 <div class="caption">
 
                     <div class="block">
-                        <h1>BOOKS</h1>
+                        <h1>ALCANZA UN FUTURO PRODUCTIVO</h1>
                     </div>
 
                     <div class="block">
-                        <h2>ALL BOOKS YOU NEED</h2>
+                        <h2>Centro Profesional de Capacitación en la Belleza</h2>
                     </div>
-
-                    <div class="block">
-                        <p>ALKA<strong>LINE</strong> is a multipurpose template, retina ready, super flexible and fully<br /> responsive based on Bootstrap 3.</p>
-                    </div>
-
-                    <div class="block">
-                        <a class="btn btn-primary" href="https://wrapbootstrap.com/theme/alkaline-multipurpose-template-WB0840507" target="_blank">PURCHASE NOW</a>
-                    </div>
-
                 </div>
             </li>
         </ul>
