@@ -5,7 +5,7 @@
 <!--[if gt IE 9]><!-->	<html> <!--<![endif]-->
     <head>
         <meta charset="utf-8" />
-        <title>Especilidades - Manoel Borja</title>
+        <title>Especialidades - Manoel Borja</title>
         <meta name="keywords" content="" />
         <meta name="description" content="" />
         <meta name="Author" content="" />
@@ -63,7 +63,7 @@
 
 
                             <li class="dropdown">
-                                <a class="dropdown-toggle" href="#">CURSOS <i class="fa fa-angle-down"></i></a>
+                                <a class="dropdown-toggle" href="">CURSOS <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown-menu">
                                     <li><a href="manicurista.php">Manicurista</a></li>
                                     <li><a href="pedicurista.php">Pedicurista</a></li>
