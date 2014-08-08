@@ -134,17 +134,16 @@
                         <div class="col-md-3"><!-- item -->
                             <div class="item-box">
                                 <figure>
-                                    <a class="item-hover" href="portfolio-single-slider.html">
+                                    <a class="item-hover" href="d_imagen.php.php">
                                         <span class="overlay"></span>
                                         <span class="inner">
-                                            <strong>PROJECT</strong> DETAIL
+                                            <strong>VER</strong> MÁS
                                         </span>
                                     </a>
-                                    <img class="img-responsive" src="assets/images/demo/portfolio/thumb/1.jpg" width="260" height="260" alt="">
+                                    <img class="img-responsive" src="assets/images/demo/portfolio/13.jpg" width="260" height="260" alt="">
                                 </figure>
                                 <div class="item-box-desc">
-                                    <h4>Alkaline Project</h4>
-                                    <small class="styleColor">29 June, 2014</small>
+                                    <h4>Tinturista</h4>
                                 </div>
                             </div>
                         </div>
@@ -152,17 +151,16 @@
                         <div class="col-md-3"><!-- item -->
                             <div class="item-box">
                                 <figure>
-                                    <a class="item-hover lightbox" href="http://www.youtube.com/watch?v=W7Las-MJnJo" data-plugin-options='{"type":"iframe"}'>
+                                    <a class="item-hover" href="permanentista.php.php">
                                         <span class="overlay"></span>
                                         <span class="inner">
-                                            <strong>VIEW</strong> VIDEO
+                                            <strong>VER</strong> MÁS
                                         </span>
                                     </a>
-                                    <img class="img-responsive" src="assets/images/demo/portfolio/thumb/2.jpg" width="260" height="260" alt="">
+                                    <img class="img-responsive" src="assets/images/demo/portfolio/6.jpg" width="260" height="260" alt="">
                                 </figure>
                                 <div class="item-box-desc">
-                                    <h4>Video Project</h4>
-                                    <small class="styleColor">29 June, 2014</small>
+                                    <h4>Permanentista</h4>
                                 </div>
                             </div>
                         </div>
@@ -170,17 +168,16 @@
                         <div class="col-md-3"><!-- item -->
                             <div class="item-box">
                                 <figure>
-                                    <a class="item-hover" href="portfolio-single-slider.html">
+                                    <a class="item-hover" href="peinadora.php">
                                         <span class="overlay"></span>
                                         <span class="inner">
-                                            <strong>PROJECT</strong> DETAIL
+                                            <strong>VER</strong> MÁS
                                         </span>
                                     </a>
-                                    <img class="img-responsive" src="assets/images/demo/portfolio/thumb/3.jpg" width="260" height="260" alt="">
+                                    <img class="img-responsive" src="assets/images/demo/portfolio/10.jpg" width="260" height="260" alt="">
                                 </figure>
                                 <div class="item-box-desc">
-                                    <h4>Alkaline Project</h4>
-                                    <small class="styleColor">29 June, 2014</small>
+                                    <h4>Peinadora</h4>
                                 </div>
                             </div>
                         </div>
@@ -188,17 +185,16 @@
                         <div class="col-md-3"><!-- item -->
                             <div class="item-box">
                                 <figure>
-                                    <a class="item-hover" href="portfolio-single-slider.html">
+                                    <a class="item-hover" href="pedicurista.php">
                                         <span class="overlay"></span>
                                         <span class="inner">
-                                            <strong>PROJECT</strong> DETAIL
+                                            <strong>VER</strong> MÁS
                                         </span>
                                     </a>
-                                    <img class="img-responsive" src="assets/images/demo/portfolio/thumb/4.jpg" width="260" height="260" alt="">
+                                    <img class="img-responsive" src="assets/images/demo/portfolio/2.jpg" width="260" height="260" alt="">
                                 </figure>
                                 <div class="item-box-desc">
-                                    <h4>Alkaline Project</h4>
-                                    <small class="styleColor">29 June, 2014</small>
+                                    <h4>Pedicurista</h4>
                                 </div>
                             </div>
                         </div>
