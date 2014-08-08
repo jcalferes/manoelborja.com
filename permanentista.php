@@ -65,10 +65,10 @@
                             <li class="dropdown">
                                 <a class="dropdown-toggle" href="#">CURSOS <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown-menu">
-                                    <li class="active"><a href="manicurista.php">Manicurista</a></li>
-                                    <li><a href="">Pedicurista</a></li>
-                                    <li><a href="">Permanentista</a></li>
-                                    <li><a href="">Tinturista</a></li>
+                                    <li><a href="manicurista.php">Manicurista</a></li>
+                                    <li><a href="pedicurista.php">Pedicurista</a></li>
+                                    <li class="active"><a href="permanentista.php">Permanentista</a></li>
+                                    <li><a href="tinturista.php">Tinturista</a></li>
                                     <li><a href="">Peinadora</a></li>
                                     <li><a href="">Maquillista</a></li>
                                     <li><a href="">Diseño de imagen</a></li>
@@ -94,7 +94,7 @@
             <div class="white">
 
                 <header class="page-header">
-                    <h1><strong>Manicurista</strong></h1>
+                    <h1><strong>Permanentista</strong></h1>
                 </header>
 
 
@@ -105,21 +105,19 @@
                         <div class="col-sm-6 col-md-7">
                             <div class="owl-carousel controlls-over product-image" data-plugin-options='{"items": 1, "singleItem": true, "navigation": true, "pagination": true, "transitionStyle":"fadeUp"}'>
                                 <div>
-                                    <img alt="" class="img-responsive" src="assets/images/demo/portfolio/8.jpg">
+                                    <img alt="" class="img-responsive" src="assets/images/demo/portfolio/5.jpg">
                                 </div>
                                 <div>
-                                    <img alt="" class="img-responsive" src="assets/images/demo/portfolio/9.jpg">
+                                    <img alt="" class="img-responsive" src="assets/images/demo/portfolio/6.jpg">
                                 </div>
                             </div>
                         </div>
 
                         <div class="col-sm-6 col-md-5">
-                            <p>El arte de embellecer las manos, uñas de gel, acrílico, seda, porcelana, fibra de vidrio.</p>
+                            <p>Diagnostico previo de la eleccion y forma de enrollado, dimensón del carrete y fuerza de solución química y tiempo.</p>
                             <ul class="list-icon star-o">
-                                <li>...</li>
-                                <li>...</li>
-                                <li>...</li>
-                                <li>...</li>
+                                <li>Promueve el cambio de imagen con las nuevas tendencias.</li>
+                                <li>Genera diseños elegantes en todo tipo de cabello.</li>
                             </ul>
                         </div>
                     </div>
