@@ -76,6 +76,9 @@
                             <li>
                                 <a class="dropdown-toggle" href="tienda.php">TIENDA</a>
                             </li>
+                            <li>
+                                <a class="dropdown-toggle" href="salon.php">SALON</a>
+                            </li>
                             <li class="active">
                                 <a class="dropdown-toggle" href="contact-1.php">CONTACTO</a>
                             </li>                             

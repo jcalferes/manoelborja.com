@@ -5,10 +5,11 @@
 <!--[if gt IE 9]><!-->	<html> <!--<![endif]-->
     <head>
         <meta charset="utf-8" />
-        <title>Tijeras de Corte - Manoel Borja</title>
+        <title>Salon - Manoel Borja</title>
         <meta name="keywords" content="" />
         <meta name="description" content="" />
         <meta name="Author" content="" />
+        <link rel="icon" href="assets/images/favicon.png">
 
         <!-- mobile settings -->
         <meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=0" />
@@ -42,7 +43,7 @@
             <div class="container">
 
                 <!-- LOGO -->
-                <a href="index.html" class="logo"><img alt="" src="assets/images/logo.png" height="60" /></a>
+                <a href="index.php" class="logo"><img alt="" src="assets/images/logo.png" height="60" /></a>
                 <!-- LOGO -->
 
                 <!-- OPTIONS -->
@@ -79,9 +80,16 @@
                                     <li><a href="especialidades.php">Especialidades</a></li>
                                 </ul>
                             </li>
+                            <li class="active">
+                                <a class="dropdown-toggle" href="tienda.php">TIENDA</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-toggle" href="salon.php">SALON</a>
+                            </li>
                             <li>
                                 <a class="dropdown-toggle" href="contact-1.php">CONTACTO</a>
                             </li>
+
                         </ul>
                     </nav>
                 </div>
@@ -99,58 +107,49 @@
             <div class="white">
 
                 <header class="page-header">
-                    <h1>Tijeras de Corte</h1>
+                    <h1>Servicios Disponibles</h1>
                 </header>
 
                 <div id="shop">
-
                     <div class="row">
-                        <div class="col-sm-6 col-md-6">
-                            <div class="owl-carousel controlls-over product-image" data-plugin-options='{"items": 1, "singleItem": true, "navigation": true, "pagination": true, "transitionStyle":"fadeUp"}'>
-                                <div>
-                                    <img alt="" class="img-responsive" src="assets/images/demo/shop/4.jpg">
+                        <!-- items -->
+                        <div class="col-sm-6 col-md-3"><!-- item -->
+                            <div class="item-box">
+                                <figure>
+                                    <img class="img-responsive" src="assets/images/demo/portfolio/salon.jpg" width="260" height="260" alt="">
+                                </figure>
+                                <div class="item-box-desc">
+                                    <h4>Tijera de Corte</h4>
+                                    <small class="styleColor">$...</small>
                                 </div>
                             </div>
                         </div>
-
-                        <div class="col-sm-6 col-md-6">
-
-                            <!-- product detail -->
-                            <form class="form-inline productDescription noajax" method="get" action="shop-cart.html" role="form">
-
-                                <!-- hidden fields -->
-                                <input type="hidden" name="action" value="cart_add" />
-                                <input type="hidden" name="product_id" value="1" />
-
-                                <!-- product unique code -->
-                                <span class="code">CODIGO: 000000</span>
-                                <!-- /product unique code -->
-
-                                <!-- product price -->
-                                <div class="productRowInfo">
-                                    <span class="price styleSecondColor fsize20">$00.00</span>
-                                    <span class="oldprice">$00.00</span>
+                        <div class="col-sm-6 col-md-3"><!-- item -->
+                            <div class="item-box">
+                                <figure>
+                                    <img class="img-responsive" src="assets/images/demo/portfolio/salon2.jpg" width="260" height="260" alt="">
+                                </figure>
+                                <div class="item-box-desc">
+                                    <h4>Cortes</h4>
+                                    <small class="styleColor">$...</small>
                                 </div>
-                                <!-- /product price -->
-
-                                <!-- product description -->
-                                <div class="desc">
-                                    <h3 class="page-header">DESCRIPCION</h3>
-                                    <p>
-                                        ...
-                                    </p>
-                                </div>
-                                <!-- /product description -->
-
-
-                            </form>
-                            <!-- product detail -->
-
+                            </div>
                         </div>
+                        <div class="col-sm-6 col-md-3"><!-- item -->
+                            <div class="item-box">
+                                <figure>
+                                    <img class="img-responsive" src="assets/images/demo/portfolio/salon3.jpg" width="260" height="260" alt="">
+                                </figure>
+                                <div class="item-box-desc">
+                                    <h4>Maquina de Corte</h4>
+                                    <small class="styleColor">$...</small>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- items -->
+
                     </div>
-                </div><!-- /row -->
-
-
+                </div>
             </div>
         </div>
 
@@ -159,21 +158,19 @@
 
         <!-- FOOTER -->
         <footer id="footer">
-            <footer id="footer">
-                <span id="slideTimer"><!-- fs-slideshow timer line --></span>
+           <span id="slideTimer"><!-- fs-slideshow timer line --></span>
 
-                <!-- right menu -->
-                <ul>
-                    <li><a href="contact-1.php">CONTACTO</a></li>
-                    <li class="sepy">&bull;</li>
-                    <li><a href="#" data-toggle="modal" data-target="#socialInlineModal">REDES SOCIALES</a></li>
-                </ul>
-                <!-- /right menu -->
+            <!-- right menu -->
+            <ul>
+                <li><a href="contact-1.php">CONTACTO</a></li>
+                <li class="sepy">&bull;</li>
+                <li><a href="#" data-toggle="modal" data-target="#socialInlineModal">REDES SOCIALES</a></li>
+            </ul>
+            <!-- /right menu -->
 
-                <!-- copyright -->
-                <span class="hidden-xs">&copy; PC-Oriente</span>
-                <!-- /copyright -->
-            </footer>
+            <!-- copyright -->
+            <span class="hidden-xs">&copy; PC-Oriente</span>
+            <!-- /copyright -->
         </footer>
         <!-- /FOOTER -->
 
@@ -185,7 +182,7 @@
 
                     <div class="modal-header"><!-- modal header -->
                         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                        <h4 class="modal-title" id="myModalLabel"><i class="fa fa-hand-o-down"></i> Redes Sociales</h4>
+                        <h4 class="modal-title" id="myModalLabel"><i class="fa fa-hand-o-down"></i> REDES SOCIALES</h4>
                     </div><!-- /modal header -->
 
                     <!-- modal body -->

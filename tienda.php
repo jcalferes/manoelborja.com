@@ -84,6 +84,9 @@
                                 <a class="dropdown-toggle" href="tienda.php">TIENDA</a>
                             </li>
                             <li>
+                                <a class="dropdown-toggle" href="salon.php">SALON</a>
+                            </li>
+                            <li>
                                 <a class="dropdown-toggle" href="contact-1.php">CONTACTO</a>
                             </li>
 
@@ -113,7 +116,7 @@
                         <div class="col-sm-6 col-md-3"><!-- item -->
                             <div class="item-box">
                                 <figure>
-                                    <a class="item-hover" href="shop-single.html">
+                                    <a class="item-hover" href="">
                                         <span class="overlay"></span>
                                         <span class="inner">
                                             <strong>VER</strong> PRODUCTO
@@ -123,14 +126,14 @@
                                 </figure>
                                 <div class="item-box-desc">
                                     <h4>Tijera de Corte</h4>
-                                    <small class="styleColor"><span>$...</span> $...</small>
+                                    <small class="styleColor">$...</small>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-3"><!-- item -->
                             <div class="item-box">
                                 <figure>
-                                    <a class="item-hover" href="shop-single.html">
+                                    <a class="item-hover" href="">
                                         <span class="overlay"></span>
                                         <span class="inner">
                                             <strong>VER</strong> PRODUCTO
@@ -140,14 +143,14 @@
                                 </figure>
                                 <div class="item-box-desc">
                                     <h4>Tijera Degrafiladora</h4>
-                                    <small class="styleColor"><span>$...</span> $...</small>
+                                    <small class="styleColor">$...</small>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-3"><!-- item -->
                             <div class="item-box">
                                 <figure>
-                                    <a class="item-hover" href="shop-single.html">
+                                    <a class="item-hover" href="">
                                         <span class="overlay"></span>
                                         <span class="inner">
                                             <strong>VER</strong> PRODUCTO
@@ -157,24 +160,7 @@
                                 </figure>
                                 <div class="item-box-desc">
                                     <h4>Maquina de Corte</h4>
-                                    <small class="styleColor"><span>$...</span> $...</small>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-md-3"><!-- item -->
-                            <div class="item-box">
-                                <figure>
-                                    <a class="item-hover" href="shop-single.html">
-                                        <span class="overlay"></span>
-                                        <span class="inner">
-                                            <strong>VER</strong> PRODUCTO
-                                        </span>
-                                    </a>
-                                    <img class="img-responsive" src="assets/images/demo/shop/2.jpg" width="260" height="260" alt="">
-                                </figure>
-                                <div class="item-box-desc">
-                                    <h4>Mesa de Manicure</h4>
-                                    <small class="styleColor"><span>$...</span> $...</small>
+                                    <small class="styleColor">$...</small>
                                 </div>
                             </div>
                         </div>
