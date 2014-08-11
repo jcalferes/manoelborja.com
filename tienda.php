@@ -116,12 +116,6 @@
                         <div class="col-sm-6 col-md-3"><!-- item -->
                             <div class="item-box">
                                 <figure>
-                                    <a class="item-hover" href="">
-                                        <span class="overlay"></span>
-                                        <span class="inner">
-                                            <strong>VER</strong> PRODUCTO
-                                        </span>
-                                    </a>
                                     <img class="img-responsive" src="assets/images/demo/shop/4.jpg" width="260" height="260" alt="">
                                 </figure>
                                 <div class="item-box-desc">
@@ -133,12 +127,6 @@
                         <div class="col-sm-6 col-md-3"><!-- item -->
                             <div class="item-box">
                                 <figure>
-                                    <a class="item-hover" href="">
-                                        <span class="overlay"></span>
-                                        <span class="inner">
-                                            <strong>VER</strong> PRODUCTO
-                                        </span>
-                                    </a>
                                     <img class="img-responsive" src="assets/images/demo/shop/3.jpg" width="260" height="260" alt="">
                                 </figure>
                                 <div class="item-box-desc">
@@ -150,16 +138,21 @@
                         <div class="col-sm-6 col-md-3"><!-- item -->
                             <div class="item-box">
                                 <figure>
-                                    <a class="item-hover" href="">
-                                        <span class="overlay"></span>
-                                        <span class="inner">
-                                            <strong>VER</strong> PRODUCTO
-                                        </span>
-                                    </a>
                                     <img class="img-responsive" src="assets/images/demo/shop/1.jpg" width="260" height="260" alt="">
                                 </figure>
                                 <div class="item-box-desc">
                                     <h4>Maquina de Corte</h4>
+                                    <small class="styleColor">$...</small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-3"><!-- item -->
+                            <div class="item-box">
+                                <figure>
+                                    <img class="img-responsive" src="assets/images/demo/shop/5.jpg" width="260" height="260" alt="">
+                                </figure>
+                                <div class="item-box-desc">
+                                    <h4>Mesa de Manicure</h4>
                                     <small class="styleColor">$...</small>
                                 </div>
                             </div>

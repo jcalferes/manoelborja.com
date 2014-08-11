@@ -119,7 +119,7 @@
                                     <img class="img-responsive" src="assets/images/demo/portfolio/salon.jpg" width="260" height="260" alt="">
                                 </figure>
                                 <div class="item-box-desc">
-                                    <h4>Tijera de Corte</h4>
+                                    <h4>Cortes</h4>
                                     <small class="styleColor">$...</small>
                                 </div>
                             </div>
@@ -130,7 +130,7 @@
                                     <img class="img-responsive" src="assets/images/demo/portfolio/salon2.jpg" width="260" height="260" alt="">
                                 </figure>
                                 <div class="item-box-desc">
-                                    <h4>Cortes</h4>
+                                    <h4>Maquillaje</h4>
                                     <small class="styleColor">$...</small>
                                 </div>
                             </div>
@@ -141,7 +141,7 @@
                                     <img class="img-responsive" src="assets/images/demo/portfolio/salon3.jpg" width="260" height="260" alt="">
                                 </figure>
                                 <div class="item-box-desc">
-                                    <h4>Maquina de Corte</h4>
+                                    <h4>Peinados</h4>
                                     <small class="styleColor">$...</small>
                                 </div>
                             </div>
