@@ -5,9 +5,9 @@
     <head>
         <meta charset="utf-8" />
         <title>Manoel Borja</title>
-        <meta name="keywords" content="" />
-        <meta name="description" content="" />
-        <meta name="Author" content="" />
+        <meta name="keywords" content="Belleza, Estilo, Cursos" />
+        <meta name="description" content="Centro Profesional de Capacitación en la Belleza" />
+        <meta name="Author" content="PC-Oriente" />
         <link rel="icon" href="assets/images/favicon.png">
 
         <!-- mobile settings -->

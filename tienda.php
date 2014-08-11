@@ -157,6 +157,28 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="col-sm-6 col-md-3"><!-- item -->
+                            <div class="item-box">
+                                <figure>
+                                    <img class="img-responsive" src="assets/images/demo/shop/6.jpg" width="260" height="260" alt="">
+                                </figure>
+                                <div class="item-box-desc">
+                                    <h4>Mueble de Pedicure</h4>
+                                    <small class="styleColor">$...</small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-3"><!-- item -->
+                            <div class="item-box">
+                                <figure>
+                                    <img class="img-responsive" src="assets/images/demo/shop/7.jpg" width="260" height="260" alt="">
+                                </figure>
+                                <div class="item-box-desc">
+                                    <h4>Lavabo para cabello y Silla reclinable</h4>
+                                    <small class="styleColor">$...</small>
+                                </div>
+                            </div>
+                        </div>
                         <!-- items -->
 
                     </div>
