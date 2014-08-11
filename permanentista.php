@@ -132,7 +132,7 @@
                     <hr />
 
                     <!-- RELATED -->
-                             <h2><strong>Mas</strong> Cursos</h2>
+                             <h2><strong>Más</strong> cursos</h2>
                     <div class="row">
 
                         <div class="col-md-3"><!-- item -->

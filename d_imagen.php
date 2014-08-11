@@ -123,7 +123,7 @@
                             <p>Según la forma del rostro dame o caballero, niños, cortes con maquinilla, tijeras de degrafilar, navajas.</p>
                             <ul class="list-icon star-o">
                                 <li>Conocerás las herramientas básicas y profesionales para sacar lo mejor de una imagen personal, y convertirla en la mejor aliada.</li>
-                                <li>Aprenderás a promover y diseñar de la mano de tu asesoras de imagen y maquillista profesional, la nueva imagen de tu modelo.</li>
+                                <li>Aprenderás a promover y diseñar de la mano de tu asesoras de imagen y maquillista profesional.</li>
                                 <li>Identificarás las características físicas y saber las áreas a potenciar.</li>
                             </ul>
                         </div>
@@ -133,7 +133,7 @@
                     <hr />
 
                     <!-- RELATED -->
-                    <h2><strong>Mas</strong> Cursos</h2>
+                    <h2><strong>Más</strong> cursos</h2>
                     <div class="row">
 
                         <div class="col-md-3"><!-- item -->
