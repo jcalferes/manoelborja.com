@@ -114,10 +114,10 @@
                 <div class="row">
                     <!-- INFO -->
                     <div class="col-md-4">
-                        <h3><strong>Visitanos</strong></h3>
+                        <h3><strong>Visítanos</strong></h3>
                         <p>
-                            <span class="block"><strong><i class="fa fa-map-marker"></i> Direccion:</strong> Calle 39 #498-A entre 58 y 60 Centro</span>
-                            <span class="block"><strong><i class="fa fa-phone"></i> Telefono(s):</strong> 925-58-17 / 920-02-02</span>
+                            <span class="block"><strong><i class="fa fa-map-marker"></i> Dirección:</strong> Calle 39 #498-A entre 58 y 60 Centro</span>
+                            <span class="block"><strong><i class="fa fa-phone"></i> Teléfono(s):</strong> 925-58-17 / 920-02-02</span>
                             <span class="block"><strong><i class="fa fa-envelope"></i> Email:</strong> <a href="mailto:manoel.borja@outlook.com">manoel.borja@outlook.com</a></span>
                         </p>
                     </div>

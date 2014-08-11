@@ -120,7 +120,7 @@
                                 </figure>
                                 <div class="item-box-desc">
                                     <h4>Tijera de Corte</h4>
-                                    <small class="styleColor">$...</small>
+                                    <small class="styleColor"></small>
                                 </div>
                             </div>
                         </div>
@@ -131,7 +131,7 @@
                                 </figure>
                                 <div class="item-box-desc">
                                     <h4>Tijera Degrafiladora</h4>
-                                    <small class="styleColor">$...</small>
+                                    <small class="styleColor"></small>
                                 </div>
                             </div>
                         </div>
@@ -142,7 +142,7 @@
                                 </figure>
                                 <div class="item-box-desc">
                                     <h4>Maquina de Corte</h4>
-                                    <small class="styleColor">$...</small>
+                                    <small class="styleColor"></small>
                                 </div>
                             </div>
                         </div>
@@ -153,7 +153,7 @@
                                 </figure>
                                 <div class="item-box-desc">
                                     <h4>Mesa de Manicure</h4>
-                                    <small class="styleColor">$...</small>
+                                    <small class="styleColor"></small>
                                 </div>
                             </div>
                         </div>
