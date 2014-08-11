@@ -655,11 +655,11 @@ div.mc-image {
 	}
 	div.maximage-controls #slider_next:hover {
 		background-position:-53px -98px;
-		background-color:#81BA10;
+		background-color:#F73F69;
 	}
 	div.maximage-controls #slider_prev:hover {
 		background-position:0 -98px;
-		background-color:#81BA10;
+		background-color: #F73F69; /*#81BA10;*/
 	}
 
 
@@ -1261,7 +1261,7 @@ div.e404 {
 		display: block !important;
 
 		background: #2D343E;
-		margin: 0  !important; //Editado
+		margin: 0  !important; /*Editado */
 	}
 
 	#header ul.nav li > a { /* Firefox Fix */

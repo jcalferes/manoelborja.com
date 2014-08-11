@@ -120,7 +120,7 @@
                                 </figure>
                                 <div class="item-box-desc">
                                     <h4>Cortes</h4>
-                                    <small class="styleColor">$...</small>
+                                    <small class="styleColor"></small>
                                 </div>
                             </div>
                         </div>
@@ -131,7 +131,7 @@
                                 </figure>
                                 <div class="item-box-desc">
                                     <h4>Maquillaje</h4>
-                                    <small class="styleColor">$...</small>
+                                    <small class="styleColor"></small>
                                 </div>
                             </div>
                         </div>
@@ -142,7 +142,7 @@
                                 </figure>
                                 <div class="item-box-desc">
                                     <h4>Peinados</h4>
-                                    <small class="styleColor">$...</small>
+                                    <small class="styleColor"></small>
                                 </div>
                             </div>
                         </div>
