@@ -73,6 +73,9 @@
                                     <li><a href="especialidades.php">Especialidades</a></li>
                                 </ul>
                             </li>
+                            <li>
+                                <a class="dropdown-toggle" href="tienda.php">TIENDA</a>
+                            </li>
                             <li class="active">
                                 <a class="dropdown-toggle" href="contact-1.php">CONTACTO</a>
                             </li>                             

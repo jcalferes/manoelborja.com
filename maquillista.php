@@ -76,6 +76,9 @@
                                 </ul>
                             </li>
                             <li>
+                                <a class="dropdown-toggle" href="tienda.php">TIENDA</a>
+                            </li>
+                            <li>
                                 <a class="dropdown-toggle" href="contact-1.php">CONTACTO</a>
                             </li>
                         </ul>
@@ -114,7 +117,7 @@
                         </div>
 
                         <div class="col-sm-6 col-md-5">
-                            <p>Como resaltar un rostro, suavizar, corrgir defectos en un juego de tonos de luz y sombra.</p>
+                            <p>Como resaltar un rostro, suavizar, corregir defectos en un juego de tonos de luz y sombra.</p>
                             <ul class="list-icon star-o">
                                 <li>Aprende todo lo referente al arte del maquillaje.</li>
                                 <li>Conoce las últimas tendencias y técnicas.</li>
@@ -133,7 +136,7 @@
                         <div class="col-md-3"><!-- item -->
                             <div class="item-box">
                                 <figure>
-                                    <a class="item-hover" href="d_imagen.php.php">
+                                    <a class="item-hover" href="d_imagen.php">
                                         <span class="overlay"></span>
                                         <span class="inner">
                                             <strong>VER</strong> MÁS

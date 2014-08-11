@@ -1,10 +1,11 @@
+
 <!DOCTYPE html>
 <!--[if IE 8]>			<html class="ie ie8"> <![endif]-->
 <!--[if IE 9]>			<html class="ie ie9"> <![endif]-->
 <!--[if gt IE 9]><!-->	<html> <!--<![endif]-->
     <head>
         <meta charset="utf-8" />
-        <title>Manoel Borja</title>
+        <title>Tienda - Manoel Borja</title>
         <meta name="keywords" content="" />
         <meta name="description" content="" />
         <meta name="Author" content="" />
@@ -29,14 +30,12 @@
         <link href="assets/css/layout.css" rel="stylesheet" type="text/css" />
         <link href="assets/css/color_scheme/pink.css" rel="stylesheet" type="text/css" />
 
+        <!-- shop -->
+        <link href="assets/css/shop.css" rel="stylesheet" type="text/css" />
+        <link href="assets/plugins/egorkhmelev-jslider/css/_pack.css" rel="stylesheet" type="text/css" />
+
         <!-- Morenizr -->
         <script type="text/javascript" src="assets/plugins/modernizr.min.js"></script>
-        <script type="text/javascript">
-            if (top != self) {
-                window.open(self.location.href, '_top');
-            }
-        </script>
-
     </head>
     <body>
         <!-- HEADER -->
@@ -63,7 +62,7 @@
                     <nav class="nav-main">
                         <ul class="nav nav-pills nav-main scroll-menu" id="topMain">
 
-                            <li class="active">
+                            <li>
                                 <a class="dropdown-toggle" href="index.php">INICIO</a>
                             </li>
 
@@ -81,7 +80,7 @@
                                     <li><a href="especialidades.php">Especialidades</a></li>
                                 </ul>
                             </li>
-                            <li>
+                            <li class="active">
                                 <a class="dropdown-toggle" href="tienda.php">TIENDA</a>
                             </li>
                             <li>
@@ -101,95 +100,97 @@
 
 
 
-        <!-- SLIDER -->
-        <img id="cycle-loader" src="assets/images/spinner.gif" alt="loader" />
+        <div id="middle" class="container">
+            <div class="white">
 
-        <!-- controlls -->
-        <div class="maximage-controls">
-            <a href="#" id="slider_prev"></a>
-            <a href="#" id="slider_next"></a>
+                <header class="page-header">
+                    <h1>Artículos a la venta</h1>
+                </header>
+
+                <div id="shop">
+                    <div class="row">
+                        <!-- items -->
+                        <div class="col-sm-6 col-md-3"><!-- item -->
+                            <div class="item-box">
+                                <figure>
+                                    <a class="item-hover" href="shop-single.html">
+                                        <span class="overlay"></span>
+                                        <span class="inner">
+                                            <strong>VER</strong> PRODUCTO
+                                        </span>
+                                    </a>
+                                    <img class="img-responsive" src="assets/images/demo/shop/4.jpg" width="260" height="260" alt="">
+                                </figure>
+                                <div class="item-box-desc">
+                                    <h4>Tijera de Corte</h4>
+                                    <small class="styleColor"><span>$...</span> $...</small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-3"><!-- item -->
+                            <div class="item-box">
+                                <figure>
+                                    <a class="item-hover" href="shop-single.html">
+                                        <span class="overlay"></span>
+                                        <span class="inner">
+                                            <strong>VER</strong> PRODUCTO
+                                        </span>
+                                    </a>
+                                    <img class="img-responsive" src="assets/images/demo/shop/3.jpg" width="260" height="260" alt="">
+                                </figure>
+                                <div class="item-box-desc">
+                                    <h4>Tijera Degrafiladora</h4>
+                                    <small class="styleColor"><span>$...</span> $...</small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-3"><!-- item -->
+                            <div class="item-box">
+                                <figure>
+                                    <a class="item-hover" href="shop-single.html">
+                                        <span class="overlay"></span>
+                                        <span class="inner">
+                                            <strong>VER</strong> PRODUCTO
+                                        </span>
+                                    </a>
+                                    <img class="img-responsive" src="assets/images/demo/shop/1.jpg" width="260" height="260" alt="">
+                                </figure>
+                                <div class="item-box-desc">
+                                    <h4>Maquina de Corte</h4>
+                                    <small class="styleColor"><span>$...</span> $...</small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-3"><!-- item -->
+                            <div class="item-box">
+                                <figure>
+                                    <a class="item-hover" href="shop-single.html">
+                                        <span class="overlay"></span>
+                                        <span class="inner">
+                                            <strong>VER</strong> PRODUCTO
+                                        </span>
+                                    </a>
+                                    <img class="img-responsive" src="assets/images/demo/shop/2.jpg" width="260" height="260" alt="">
+                                </figure>
+                                <div class="item-box-desc">
+                                    <h4>Mesa de Manicure</h4>
+                                    <small class="styleColor"><span>$...</span> $...</small>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- items -->
+
+                    </div>
+                </div>
+            </div>
         </div>
-        <!-- /controlls -->
-
-        <ul id="slider">
-            <li>
-                <img src="assets/images/demo/slider/17.jpg" alt="" />
-                <div class="caption">
-
-                    <div class="block">
-                        <h1>SUPERATE Y TRIUNFA</h1>
-                    </div>
-
-                    <div class="block">
-                        <h2>Centro Profesional de Capacitación en la Belleza</h2>
-                    </div>
-                    
-                    <div class="block">
-                        <h1><img src="assets/images/sep.png" alt="" height="75"/></h1>
-                    </div>
-                </div>
-            </li>
-            <li>
-                <img src="assets/images/demo/slider/19.jpg" alt="" />
-                <div class="caption">
-
-                    <div class="block">
-                        <h1>INCREMENTA TU CONOCIMIENTO</h1>
-                    </div>
-
-                    <div class="block">
-                        <h2>Centro Profesional de Capacitación en la Belleza</h2>
-                    </div>
-                    
-                    <div class="block">
-                        <h1><img src="assets/images/sep.png" alt="" height="75"/></h1>
-                    </div>
-                </div>
-            </li>
-            <li>
-                <img src="assets/images/demo/slider/22.jpg" alt="" />
-                <div class="caption">
-
-                    <div class="block">
-                        <h1>DESARROLLA TUS APTITUDES</h1>
-                    </div>
-
-                    <div class="block">
-                        <h2>Centro Profesional de Capacitación en la Belleza</h2>
-                    </div>
-                    
-                    <div class="block">
-                        <h1><img src="assets/images/sep.png" alt="" height="75"/></h1>
-                    </div>
-                </div>
-            </li>
-            <li>
-                <img src="assets/images/demo/slider/9.jpg" alt="" />
-                <div class="caption">
-
-                    <div class="block">
-                        <h1>ALCANZA UN FUTURO PRODUCTIVO</h1>
-                    </div>
-
-                    <div class="block">
-                        <h2>Centro Profesional de Capacitación en la Belleza</h2>
-                    </div>
-                    
-                    <div class="block">
-                        <h1><img src="assets/images/sep.png" alt="" height="75"/></h1>
-                    </div>
-                </div>
-            </li>
-        </ul>
-
-        <!-- /SLIDER -->
 
 
 
 
         <!-- FOOTER -->
         <footer id="footer">
-            <span id="slideTimer"><!-- fs-slideshow timer line --></span>
+           <span id="slideTimer"><!-- fs-slideshow timer line --></span>
 
             <!-- right menu -->
             <ul>
@@ -251,12 +252,14 @@
         <script type="text/javascript" src="assets/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
         <script type="text/javascript" src="assets/plugins/owl-carousel/owl.carousel.min.js"></script>
         <script type="text/javascript" src="assets/plugins/knob/js/jquery.knob.js"></script>
+        <script type="text/javascript" src="assets/plugins/egorkhmelev-jslider/js/_pack.js"></script>
 
         <!-- MAXIMAGE SLIDER -->
         <script type="text/javascript" src="assets/plugins/maximage/js/jquery.cycle.all.min.js"></script>
         <script type="text/javascript" src="assets/plugins/maximage/js/jquery.maximage.min.js"></script>
 
         <script type="text/javascript" src="assets/js/scripts.js"></script>
+        <script type="text/javascript" src="assets/plugins/styleswitcher/styleswitcher.js"></script><!-- STYLESWITCHER - REMOVE ON PRODUCTION/DEVELOPMENT -->
 
     </body>
 </html>

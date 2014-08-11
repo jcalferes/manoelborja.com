@@ -114,10 +114,9 @@
                         </div>
 
                         <div class="col-sm-6 col-md-5">
-                            <p>Alto peinado, moda, novias, quiceañeras, clásicas y artísticcas.</p>
+                            <p>Alto peinado, moda, novias, quinceañeras, clásicas y artísticas.</p>
                             <ul class="list-icon star-o">
-                                <li>Aprende las técnicas de realización de peinados y acabados como son: el visagismo, líneas, las particiones y proyecciones.</li>
-                                <li>Utiliza tu creatividad con los trenzados, anudados, enrollados, bucles, cruzados, plumeados y rizados ademas de postizos y otros adornos.</li>
+                                <li>Utiliza tu creatividad con los trenzados, anudados, enrollados, bucles, cruzados, plumeados y rizados además de postizos y otros adornos.</li>
                             </ul>
                         </div>
                     </div>

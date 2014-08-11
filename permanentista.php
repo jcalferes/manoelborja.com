@@ -114,7 +114,7 @@
                         </div>
 
                         <div class="col-sm-6 col-md-5">
-                            <p>Diagnostico previo de la eleccion y forma de enrollado, dimensón del carrete y fuerza de solución química y tiempo.</p>
+                            <p>Diagnóstico previo de la elección y forma de enrollado, dimensión del carrete y fuerza de solución química y tiempo.</p>
                             <ul class="list-icon star-o">
                                 <li>Promueve el cambio de imagen con las nuevas tendencias.</li>
                                 <li>Genera diseños elegantes en todo tipo de cabello.</li>

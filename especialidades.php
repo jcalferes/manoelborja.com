@@ -76,6 +76,9 @@
                                 </ul>
                             </li>
                             <li>
+                                <a class="dropdown-toggle" href="tienda.php">TIENDA</a>
+                            </li>
+                            <li>
                                 <a class="dropdown-toggle" href="contact-1.php">CONTACTO</a>
                             </li>
                         </ul>
@@ -137,7 +140,7 @@
                         <div class="col-md-3"><!-- item -->
                             <div class="item-box">
                                 <figure>
-                                    <a class="item-hover" href="d_imagen.php.php">
+                                    <a class="item-hover" href="d_imagen.php">
                                         <span class="overlay"></span>
                                         <span class="inner">
                                             <strong>VER</strong> MÁS
@@ -146,7 +149,7 @@
                                     <img class="img-responsive" src="assets/images/demo/portfolio/13.jpg" width="260" height="260" alt="">
                                 </figure>
                                 <div class="item-box-desc">
-                                    <h4>Tinturista</h4>
+                                    <h4>Diseño de Imagen</h4>
                                 </div>
                             </div>
                         </div>

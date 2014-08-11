@@ -114,10 +114,10 @@
                         </div>
 
                         <div class="col-sm-6 col-md-5">
-                            <p>Forma y uso correcto del color, combinacion de tonos, mehcas, luces, decoloracion, suavización de cana y extracción de color.</p>
+                            <p>Forma y uso correcto del color, combinacion de tonos, mechas, luces, decoloracion, suavización de cana y extracción de color.</p>
                             <ul class="list-icon star-o">
                                 <li>Explota la correcta combinación de los colores.</li>
-                                <li>Adquiere habilidad y experiencia relizando practicas reales.</li>
+                                <li>Adquiere habilidad y experiencia relizando prácticas reales.</li>
                                 <li>Diseña, crea e inventa la nueva línea en la combinación de tintes.</li>
                             </ul>
                         </div>
@@ -133,7 +133,7 @@
                         <div class="col-md-3"><!-- item -->
                             <div class="item-box">
                                 <figure>
-                                    <a class="item-hover" href="d_imagen.php.php">
+                                    <a class="item-hover" href="d_imagen.php">
                                         <span class="overlay"></span>
                                         <span class="inner">
                                             <strong>VER</strong> MÁS
@@ -142,7 +142,7 @@
                                     <img class="img-responsive" src="assets/images/demo/portfolio/13.jpg" width="260" height="260" alt="">
                                 </figure>
                                 <div class="item-box-desc">
-                                    <h4>Tinturista</h4>
+                                    <h4>Diseño de Imagen</h4>
                                 </div>
                             </div>
                         </div>

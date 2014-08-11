@@ -76,6 +76,9 @@
                                 </ul>
                             </li>
                             <li>
+                                <a class="dropdown-toggle" href="tienda.php">TIENDA</a>
+                            </li>
+                            <li>
                                 <a class="dropdown-toggle" href="contact-1.php">CONTACTO</a>
                             </li>
                         </ul>
@@ -114,11 +117,11 @@
                         </div>
 
                         <div class="col-sm-6 col-md-5">
-                            <p>Segun la forma del rostro dame o caballero, niños, cortes con maquinilla, tijeras de degrafilar, navajas.</p>
+                            <p>Según la forma del rostro dame o caballero, niños, cortes con maquinilla, tijeras de degrafilar, navajas.</p>
                             <ul class="list-icon star-o">
                                 <li>Conocerás las herramientas básicas y profesionales para sacar lo mejor de una imagen personal, y convertirla en la mejor aliada.</li>
                                 <li>Aprenderás a promover y diseñar de la mano de tu asesoras de imagen y maquillista profesional, la nueva imagen de tu modelo.</li>
-                                <li>Identificarás las características físicas y saber las área a potenciar.</li>
+                                <li>Identificarás las características físicas y saber las áreas a potenciar.</li>
                             </ul>
                         </div>
                     </div>
