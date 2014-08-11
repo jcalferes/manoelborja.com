@@ -131,6 +131,7 @@
                                 <li>Reducción de abdomen.</li>
                             </ul>
                         </div>
+                        <strong> <p  id='inscribete'>INSCRIBETE YA!... Informes en <a  href="contact-1.php">CONTACTO</a></p></strong>
                     </div>
 
 
@@ -160,7 +161,7 @@
                         <div class="col-md-3"><!-- item -->
                             <div class="item-box">
                                 <figure>
-                                    <a class="item-hover" href="permanentista.php.php">
+                                    <a class="item-hover" href="permanentista.php">
                                         <span class="overlay"></span>
                                         <span class="inner">
                                             <strong>VER</strong> MÁS

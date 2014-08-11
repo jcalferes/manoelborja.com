@@ -127,6 +127,7 @@
                                 <li>Conocerás desde las bases del maquillajes de época y fotografía.</li>
                             </ul>
                         </div>
+                        <strong> <p  id='inscribete'>INSCRIBETE YA!... Informes en <a  href="contact-1.php">CONTACTO</a></p></strong>
                     </div>
 
 

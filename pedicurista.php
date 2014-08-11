@@ -126,6 +126,7 @@
                                 <li>Contribuye en la belleza casi olvidada de los pies.</li>
                             </ul>
                         </div>
+                        <strong> <p  id='inscribete'>INSCRIBETE YA!... Informes en <a  href="contact-1.php">CONTACTO</a></p></strong>
                     </div>
 
 
@@ -189,7 +190,7 @@
                         <div class="col-md-3"><!-- item -->
                             <div class="item-box">
                                 <figure>
-                                    <a class="item-hover" href="maquillista.php.php">
+                                    <a class="item-hover" href="maquillista.php">
                                         <span class="overlay"></span>
                                         <span class="inner">
                                             <strong>VER</strong> MÁS

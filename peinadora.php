@@ -122,9 +122,10 @@
                         <div class="col-sm-6 col-md-5">
                             <p>Alto peinado, moda, novias, quinceañeras, clásicas y artísticas.</p>
                             <ul class="list-icon star-o">
-                                <li>Utiliza tu creatividad con los trenzados, anudados, enrollados, bucles, cruzados, plumeados y rizados además de postizos y otros adornos.</li>
+                                <li>Utiliza tu creatividad con los trenzados, anudados, enrollados, bucles, cruzados, plumeados y rizados, además de postizos y otros adornos.</li>
                             </ul>
                         </div>
+                       <strong> <p  id='inscribete'>INSCRIBETE YA!... Informes en <a  href="contact-1.php">CONTACTO</a></p></strong>
                     </div>
 
 
@@ -188,7 +189,7 @@
                         <div class="col-md-3"><!-- item -->
                             <div class="item-box">
                                 <figure>
-                                    <a class="item-hover" href="maquillista.php.php">
+                                    <a class="item-hover" href="maquillista.php">
                                         <span class="overlay"></span>
                                         <span class="inner">
                                             <strong>VER</strong> MÁS
